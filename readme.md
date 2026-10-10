@@ -1,5 +1,5 @@
 <p align="center">
-   <img src = "/home/rfrebr/Documents/github/python-lab/files/Python Lab-logo.png" alt = 🐍 Python Lab>
+   <img src = "https://github.com/brf-robson/python-lab/blob/main/files/Python%20Lab-logo.png?raw=true" alt = 🐍 Python Lab>
 </p>
 
 Este repositório foi criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante um curso de Python na Udemy.
