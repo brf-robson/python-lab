@@ -2,6 +2,11 @@
    <img src = "https://github.com/brf-robson/python-lab/blob/main/files/Python%20Lab-logo.png?raw=true" alt = 🐍 Python Lab>
 </p>
 
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
+
 Este repositório foi criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante um curso de Python na Udemy.
 
 O objetivo é acompanhar minha evolução na linguagem, praticar os conceitos aprendidos e manter um histórico organizado dos conteúdos estudados.
