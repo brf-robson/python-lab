@@ -35,3 +35,16 @@ Ao longo do curso, este repositório poderá incluir tópicos como:
 - Bibliotecas externas
 
 - Projetos práticos
+
+📁 Estrutura do repositório
+
+python-course/
+│
+├── fundamentos/
+├── exercicios/
+├── projetos/
+├── poo/
+├── arquivos/
+└── README.md
+
+A estrutura poderá ser alterada conforme o avanço no curso.
