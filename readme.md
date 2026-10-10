@@ -1,4 +1,6 @@
-# 🐍 Python Lab
+<p align="center">
+  <img src="https://play.google.com/store/apps/details?id=com.python.coding.education&hl=pt_PT" alt="🐍 Python Lab">
+</p>
 
 Este repositório foi criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante um curso de Python na Udemy.
 
@@ -38,7 +40,7 @@ Ao longo do curso, este repositório poderá incluir tópicos como:
 
 📁 Estrutura do repositório
 
--python-course/
+python-course/
  │
  ├── fundamentos/
  ├── exercicios/
@@ -48,3 +50,20 @@ Ao longo do curso, este repositório poderá incluir tópicos como:
  └── README.md
 
 A estrutura poderá ser alterada conforme o avanço no curso.
+
+## 🚀 Objetivo
+
+Meu objetivo com este repositório é:
+
+Praticar Python de forma consistente;
+
+Consolidar os conceitos aprendidos;
+
+Desenvolver lógica de programação;
+
+Criar pequenos projetos;
+
+Evoluir meus conhecimentos para desenvolvimento e automação;
+
+Utilizar o Git e GitHub durante o processo de aprendizado.
+
