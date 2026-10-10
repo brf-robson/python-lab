@@ -38,13 +38,13 @@ Ao longo do curso, este repositório poderá incluir tópicos como:
 
 📁 Estrutura do repositório
 
-python-course/
-│
-├── fundamentos/
-├── exercicios/
-├── projetos/
-├── poo/
-├── arquivos/
-└── README.md
+-python-course/
+ │
+ ├── fundamentos/
+ ├── exercicios/
+ ├── projetos/
+ ├── poo/
+ ├── arquivos/
+ └── README.md
 
 A estrutura poderá ser alterada conforme o avanço no curso.
