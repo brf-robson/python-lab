@@ -67,3 +67,40 @@ Evoluir meus conhecimentos para desenvolvimento e automação;
 
 Utilizar o Git e GitHub durante o processo de aprendizado.
 
+## 🛠️ Tecnologias
+
+Python
+
+Git
+
+GitHub
+
+Cursor
+
+## 📈 Progresso
+
+Este repositório será atualizado conforme meu avanço no curso.
+
+[x] Configuração do ambiente
+
+[] Fundamentos de Python
+
+[] Estruturas de controle
+
+[] Funções
+
+[] Programação Orientada a Objetos
+
+[] Manipulação de arquivos
+
+[] Projetos práticos
+
+## 🎓 Curso
+
+Conteúdo desenvolvido com base em um curso de Python realizado através da Udemy.
+
+Este repositório possui finalidade educacional e contém códigos escritos por mim durante meus estudos e exercícios.
+
+### 👨‍💻 Autor
+
+Desenvolvido por Robson durante meus estudos de Python.
